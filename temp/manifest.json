@@ -1,9 +1,9 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
   "manifestVersion": "1.9",
-  "id": "{{APPLICATION_ID}}",
+  "id": "3a27e0d0-d47b-11eb-a974-7d31c2173999",
   "version": "0.0.2",
-  "packageName": "{{PACKAGE_NAME}}",
+  "packageName": "babytalk",
   "developer": {
     "name": "dotNET Student",
     "websiteUrl": "https://babytalk.neocities.org/",
@@ -42,7 +42,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "{{PUBLIC_HOSTNAME}}"
+    "babytalk.azurewebsites.net"
   ],
   "showLoadingIndicator": true
 }
